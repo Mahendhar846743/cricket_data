@@ -1,1 +1,1 @@
-# cricket_data
+# this project is for creating cricket data for all format.
